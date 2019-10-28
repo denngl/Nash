@@ -41,6 +41,7 @@ def prep_matr(i,A):
     matrix[0, 2:i+2] = range(1,i+1)
         
     
+    
     print(matrix)
     return matrix
 
